@@ -1,7 +1,7 @@
-#Text Utils
+Text Utils
 - Text Manupulation web application
 
-###Tech STack
+Tech STack
 -React
 -Bootstrap
 -CSS
