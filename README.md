@@ -1,5 +1,5 @@
 Text Utils
-- Text Manupulation web application
+- Text Manipulation react application
 
 Tech Stack : 
 
